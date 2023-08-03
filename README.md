@@ -1,2 +1,4 @@
-# portifloprojects
-This is the sql scripts which i made on the covid datas for my portfolio projects
+# portifloprojects: for my portfolio projects have done
+it consists :
+sql scripts which i made on the covid data 
+Power Bi: data professional survey
